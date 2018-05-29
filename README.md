@@ -26,7 +26,7 @@ iface eth0 inet dhcp
  
 allow-hotplug wlan0
  
-iface wlan0 inet dhcp
+iface wlan0 inet static
       wpa-ssid "WIFINETWORKNAME"
       wpa-psk "WIFIPASSWORD"
       address 192.168.0.31
