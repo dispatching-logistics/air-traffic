@@ -3,7 +3,7 @@ Raspberry Pi 3 Stratux Plane Finder Client
 
 ###Start with a Raspberry Pi Stratux Kit with antennas.
 
-[Vilros Raspberry Pi Dual Channel Aviation Traffic Receiver Kit](https://amzn.to/2q2SzMp)
+[Vilros Raspberry Pi Dual Channel Aviation Traffic Receiver Kit](https://amzn.to/2kAITFz)
 
 * Set it up outside, protected from the elements.
 * A small container can house everything.
